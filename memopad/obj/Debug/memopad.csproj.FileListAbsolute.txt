@@ -1,0 +1,10 @@
+C:\Users\win\source\repos\memopad\bin\Debug\memopad.exe.config
+C:\Users\win\source\repos\memopad\bin\Debug\memopad.exe
+C:\Users\win\source\repos\memopad\bin\Debug\memopad.pdb
+C:\Users\win\source\repos\memopad\obj\Debug\memopad.Form1.resources
+C:\Users\win\source\repos\memopad\obj\Debug\memopad.Properties.Resources.resources
+C:\Users\win\source\repos\memopad\obj\Debug\memopad.csproj.GenerateResource.cache
+C:\Users\win\source\repos\memopad\obj\Debug\memopad.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\memopad\obj\Debug\memopad.exe
+C:\Users\win\source\repos\memopad\obj\Debug\memopad.pdb
+C:\Users\win\source\repos\memopad\obj\Debug\memopad.csproj.AssemblyReference.cache
